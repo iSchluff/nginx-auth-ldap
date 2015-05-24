@@ -10,5 +10,7 @@ CORE_LIBS="$CORE_LIBS -lldap -llber"
 #    ;;
 #esac
 
+echo "Core Libs $CORE_LIBS"
+
 CFLAGS="$CFLAGS"
 CFLAGS="$CFLAGS"
